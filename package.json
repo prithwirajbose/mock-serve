@@ -5,7 +5,7 @@
     "main": "index.js",
     "scripts": {
         "build": "nexe --build",
-        "start": "node index.js"
+        "start": "node mock-serve.js"
     },
     "dependencies": {
         "prompt": "1.3.0",
@@ -18,5 +18,5 @@
         "node": "6.0.0"
     },
     "author": "Prithwiraj Bose<sribasu@gmail.com>",
-    "license": "MIT"
+    "license": "GNU GPL"
 }
