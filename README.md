@@ -21,3 +21,11 @@ prompt: Enter URL of API:  (http://localhost:8080/) http://localhost:8080/api
 prompt: Enter Path to the file containing Response:  D:\mock-serve\resp.json
 NodeJS API accessible at http://localhost:8080/api
 ```
+
+## Download mock-serve
+
+You can directly download the executable version of the mock-serve API Mock app.
+
+[Download mock-serve for Windows](https://github.com/prithwirajbose/mock-serve/raw/main/mock-serve-win.exe)
+[Download mock-serve for Linux](https://github.com/prithwirajbose/mock-serve/raw/main/mock-serve-linux)
+[Download mock-serve for MacOS](https://github.com/prithwirajbose/mock-serve/raw/main/mock-serve-macos)
