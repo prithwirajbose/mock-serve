@@ -27,5 +27,7 @@ NodeJS API accessible at http://localhost:8080/api
 You can directly download the executable version of the mock-serve API Mock app.
 
 [Download mock-serve for Windows](https://github.com/prithwirajbose/mock-serve/raw/main/mock-serve-win.exe)
+
 [Download mock-serve for Linux](https://github.com/prithwirajbose/mock-serve/raw/main/mock-serve-linux)
+
 [Download mock-serve for MacOS](https://github.com/prithwirajbose/mock-serve/raw/main/mock-serve-macos)
