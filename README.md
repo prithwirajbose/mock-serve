@@ -11,6 +11,12 @@ The executable accept 2 command line arguments. First one is the URL of the API 
 mock-serve-win.exe "http://localhost:8080/api" "d:\mock-serve\resp.json"
 ```
 
+### 'mock-serve - How to use' video
+
+See how to use mock-serve to start a mock api in seconds. See the video below.
+
+[![Start a Mock API for API Testing in seconds using mock-serve](http://img.youtube.com/vi/f1UlyfOun4s/0.jpg)](https://www.youtube.com/watch?v=f1UlyfOun4s "Start a Mock API for API Testing in seconds using mock-serve")
+
 ### Using In App Prompt
 
 If no command line argument is provided to the app, the app will prompt for the URL of the API and the file path containing the response.
